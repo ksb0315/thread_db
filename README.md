@@ -5,7 +5,7 @@
  
 > 기술 스택
 > > MongoDB : 중급 <br>
-> > Python  : 고급
+> > Python  : 고급 <br>
 > > Python.Pandas  : 고급 <br>
 > > Python.Numpy   : 고급 <br>
 > > sklearn : 중급
